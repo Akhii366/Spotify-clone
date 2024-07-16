@@ -1,0 +1,90 @@
+*{
+    padding: 2px;
+    margin: 0;
+}
+  .side{
+    background-color: #111111;
+  }
+  .hm{
+    text-decoration: none;
+  }
+  .play{
+    background-color: #312f2f;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  li{
+    font-size: 11px;
+  }
+  .artist{
+    border-radius: 50%;
+  }
+  .c3{
+    background-color: #292828;
+  }
+  .card{
+    background-color:#292828;
+    border: none;
+  }
+.navbar{
+  background-color: #111111;
+}
+.mn{
+  padding: -10px;
+}
+h5{
+  color: aliceblue;
+  font-size: 16px;
+}
+h6{
+  color: aliceblue;
+}
+.sa{
+  text-decoration: none;
+  color: rgb(180, 177, 175);
+  font-weight: semibold;
+}
+.albums{
+  border-radius: 5%;
+}
+.albm{
+  font-size: 12px;
+  color: #b4aeae;
+}
+li{
+  color: white;
+}
+
+.con .bt{
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  /* float: left; */
+  margin: 0 5px;
+  overflow: hidden;
+  background: rgb(0, 0, 0);
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-out;
+}
+
+.con .bt .ic{
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 10px;
+  transition: all 0.3s ease-out;
+}
+
+.con .bt .ic i{
+  font-size: 25px;
+  line-height: 40px;
+  transition: all 0.3s ease-out;
+}
+
+ 
